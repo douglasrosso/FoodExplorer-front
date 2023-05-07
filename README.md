@@ -7,7 +7,7 @@
 siga o passo a passo do README do repositório da API linkado abaixo
 
 ```
-https://github.com/douglasrosso/foodexplorer-api
+https://github.com/douglasrosso/FoodExplorer-api
 ```
 
 ### Muito bem, após ter seguido o passo a passo, chegou a hora do front end
@@ -22,7 +22,7 @@ https://food-explorer-rocketseat.vercel.app/
 ### Para clonar o projeto
 
 ```
-git clone https://github.com/douglasrosso/foodexplorer-front.git
+git clone https://github.com/douglasrosso/FoodExplorer-front.git
 ```
 
 ### Para instalar as dependências, é necessário entrar na pasta
