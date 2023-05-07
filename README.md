@@ -7,14 +7,14 @@
 siga o passo a passo do README do repositório da API linkado abaixo
 
 ```
-https://github.com/douglasrosso/FoodExplorer-api
+https://github.com/douglasrosso/foodexplorer-api
 ```
 
 ### Muito bem, após ter seguido o passo a passo, chegou a hora do front end
 * Primeira opção e mais fácil é acessar a aplicação pela plataforma do VERCEL
 
 ```
-https://food-explorer-delta.vercel.app/
+https://food-explorer-rocketseat.vercel.app/
 ```
 
 * Segunda opção é clonar este repositório e rodar localmente
@@ -22,7 +22,7 @@ https://food-explorer-delta.vercel.app/
 ### Para clonar o projeto
 
 ```
-git clone https://github.com/douglasrosso/FoodExplorer-front.git
+git clone https://github.com/douglasrosso/foodexplorer-front.git
 ```
 
 ### Para instalar as dependências, é necessário entrar na pasta
@@ -60,11 +60,3 @@ npm run dev
 email: admin@rocketseat.com
 senha: 123456789
 ```
-
-### Para logar como usuario já cadastrado
-
-``` 
-email: user@rocketseat.com
-senha: 123456789
-```
-
